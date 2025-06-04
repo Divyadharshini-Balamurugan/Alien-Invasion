@@ -19,12 +19,19 @@ Welcome to **Alien Invasion**, a thrilling 2D space shooter game developed using
 
 alien_invasion/
 ├── alien.py # Alien enemy behavior
+
 ├── alien_invasion.py # Main game loop and logic
+
 ├── bullet.py # Bullet firing and collision
+
 ├── button.py # Play button UI
+
 ├── game_stats.py # Game state and high score tracking
+
 ├── scoreboard.py # Score and level display
+
 ├── settings.py # Game settings and configuration
+
 ├── ship.py # Player spaceship mechanics
 
 ## 🖼️ Screenshots
@@ -55,9 +62,13 @@ alien_invasion/
 ## 🎓 Learning Outcomes
 
 -Understanding game loops and real-time updates
+
 -Implementing object-oriented programming in Python
+
 -Handling user input and events
+
 -Creating UI components like buttons and scoreboards
+
 -Collision detection and dynamic difficulty adjustment
 
 ## Acknowledgments
