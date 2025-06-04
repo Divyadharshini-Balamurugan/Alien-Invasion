@@ -44,6 +44,27 @@ alien_invasion/
 
 ![over](https://github.com/user-attachments/assets/6dce46ac-711e-445c-ac31-88c1a2d9c42f)
 
+
+## 🕹️ How to Play
+
+- **Objective:**  
+  Destroy all the alien ships before they reach the bottom of the screen or collide with your spaceship.
+
+- **Controls:**
+  - `←` or `→` Arrow Keys — Move the spaceship left or right
+  - `Spacebar` — Fire bullets
+  - `Q` — Quit the game
+
+- **Gameplay:**
+  - Press the **Play** button to start the game.
+  - Shoot the aliens and avoid collisions.
+  - Score increases with each alien destroyed.
+  - The game ends when aliens reach the bottom or your ship is hit.
+  - A new level begins after clearing all aliens, with increased difficulty.
+
+---
+
+
 ## 💻 How to Run
 
 1. **Install Python (3.7 or above)**  
@@ -59,6 +80,8 @@ alien_invasion/
    ```bash
    python alien_invasion.py
 
+---
+
 ## 🎓 Learning Outcomes
 
 -Understanding game loops and real-time updates
@@ -70,6 +93,8 @@ alien_invasion/
 -Creating UI components like buttons and scoreboards
 
 -Collision detection and dynamic difficulty adjustment
+
+---
 
 ## Acknowledgments
 This game was built as a project inspired by the book Python Crash Course by Eric Matthes, with additional enhancements and styling to offer a smoother and more interactive experience.
