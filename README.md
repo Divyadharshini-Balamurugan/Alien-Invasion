@@ -30,9 +30,12 @@ alien_invasion/
 ## 🖼️ Screenshots
 
 ![start](https://github.com/user-attachments/assets/d6b9aa71-de06-46ff-aea5-c345aa448cb7)
-![over](https://github.com/user-attachments/assets/6dce46ac-711e-445c-ac31-88c1a2d9c42f)
-![ingame](https://github.com/user-attachments/assets/bccd8145-6a1f-4f90-a403-8a6c51ef5a20)
+
 ![in](https://github.com/user-attachments/assets/9e51ab61-7bcc-45ea-add2-4245fe40be87)
+
+![ingame](https://github.com/user-attachments/assets/bccd8145-6a1f-4f90-a403-8a6c51ef5a20)
+
+![over](https://github.com/user-attachments/assets/6dce46ac-711e-445c-ac31-88c1a2d9c42f)
 
 ## 💻 How to Run
 
