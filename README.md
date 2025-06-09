@@ -35,6 +35,8 @@ alien_invasion/
 
 ├── ship.py # Player spaceship mechanics
 
+---
+
 ## 🖼️ Screenshots
 
 ![start](https://github.com/user-attachments/assets/d6b9aa71-de06-46ff-aea5-c345aa448cb7)
@@ -45,6 +47,7 @@ alien_invasion/
 
 ![over](https://github.com/user-attachments/assets/6dce46ac-711e-445c-ac31-88c1a2d9c42f)
 
+---
 
 ## 🕹️ How to Play
 
