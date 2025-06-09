@@ -18,6 +18,7 @@ Welcome to **Alien Invasion**, a thrilling 2D space shooter game developed using
 ## 🗂️ Project Structure
 
 alien_invasion/
+
 ├── alien.py # Alien enemy behavior
 
 ├── alien_invasion.py # Main game loop and logic
